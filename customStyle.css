@@ -1,0 +1,21 @@
+.logo {
+    background-color: white;
+}
+
+.mainImage {
+    vertical-align: center;
+    text-align: center;
+    padding: 100px;
+}
+
+
+.teachers {
+    vertical-align: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.nerdsParagraph {
+    font-size: 30px;
+    text-align: center;
+}
